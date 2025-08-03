@@ -1,2 +1,4 @@
 This is a basic note about git and git hub
 line 2 added by commit 2 
+
+line 3 added from local repo 
